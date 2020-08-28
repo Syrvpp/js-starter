@@ -1,5 +1,15 @@
 # Front End Starter
 
+## About Me
+
+**Matthew Rupp**
+Learning a few different programming languages, primarily _C#_ and _Javascript_.
+28 years old and living in Illinois until the end of the year.
+
+[![twitter](https://blog-assets.hootsuite.com/wp-content/uploads/2018/09/Twitter_Logo_Blue-150x150.png)](https://twitter.com/Syrvpp)
+
+[Github](https://github.com/Syrvpp)
+
 ## Overview
 
 This template repository contains several opinionated, 'starter' files and settings to help students focus more time and energy on learning how to code and/or craft 'business logic' for projects and less time on configurations.
